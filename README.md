@@ -2,10 +2,6 @@
 
  👉🏻 It is an online chess game where players can play against each other in real-time.
  
- >[Play Chess!](https://onlinechess-game.herokuapp.com)
- 
- >[Project Demo](https://youtu.be/CCbrTQwYyE8)
- 
 #
  
 ### Features
@@ -28,6 +24,6 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 Presented as a part of the 8th Semester of Engineering @ Terna Engineering College 👈🏻 <b> </p>
+<p align="center"> <b><b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'></p>
